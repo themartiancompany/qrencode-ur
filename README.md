@@ -1,4 +1,4 @@
-# `solidity-compiler`
+# `qrencode`
 
 universal recipe for [user repo](../themartiancompany/ur).
 
